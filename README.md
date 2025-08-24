@@ -4,9 +4,17 @@ Prodigy Internship Tasks
 This repository contains the tasks I completed as part of my Prodigy Internship. Each task demonstrates hands-on implementation of Python, Data Science, and Machine Learning concepts using real-world datasets.
 
 📂 Repository Structure
+Task 1 – Data Visualization with Matplotlib (World Population Dataset)
 
-Task 1 – Titanic Dataset EDA
-Performed exploratory data analysis (EDA) on the Titanic dataset. Cleaned missing values, visualized survival distribution, age vs survival trends, and correlation heatmaps.
+Loaded a world population dataset from GitHub.
+
+Created a bar chart to compare total male vs female population.
+
+Plotted a histogram to visualize the distribution of population across numeric columns.
+
+Used Matplotlib for clear and customizable visualizations
+
+
 Task 2 – Titanic Survival Analysis (Seaborn)
 
 Performed Exploratory Data Analysis (EDA) on the Titanic dataset using Seaborn.
