@@ -7,9 +7,17 @@ This repository contains the tasks I completed as part of my Prodigy Internship.
 
 Task 1 – Titanic Dataset EDA
 Performed exploratory data analysis (EDA) on the Titanic dataset. Cleaned missing values, visualized survival distribution, age vs survival trends, and correlation heatmaps.
+Task 2 – Titanic Survival Analysis (Seaborn)
 
-Task 2 – Decision Tree Classifier (Bank Dataset)
-Implemented a Decision Tree Classifier on a banking dataset to predict whether a client subscribes to a term deposit. Encoded categorical features, trained the model, and visualized the decision.
+Performed Exploratory Data Analysis (EDA) on the Titanic dataset using Seaborn.
+
+Handled missing values using median (Age) and mode (Embarked) imputation.
+
+Created a count plot to show survival distribution.
+
+Built a stacked histogram to compare age distribution between survivors and non-survivors.
+
+Visualized relationships with a correlation heatmap, highlighting features affecting survival.
 
 Task 3 – Decision Tree Classifier (Bank Marketing Dataset)
 
